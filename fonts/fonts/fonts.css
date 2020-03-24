@@ -1,0 +1,31 @@
+/* @font-face {
+    font-family: 'AntonRegular';
+    src: url(D:/IT/CODE/lesson/fonts/Anton/Anton-Regular.ttf) format("truetype");
+} */
+@font-face {
+    font-family: 'Raleway';
+    src: url(/lesson/fonts/Raleway/Raleway-Black.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'Hind-Regular';
+    src: url(Hind/Hind-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Hind-Bold';
+    src: url(Hind/Hind-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Sen-Regular';
+    src: url(Sen/Sen-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Sen-Bold';
+    src: url(Sen/Sen-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lobster-Regular';
+    src: url(Lobster/Lobster-Regular.ttf) format('truetype');
+}
+
+
+
